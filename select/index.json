@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Velvet Motel",
+  "base_artist": "大滝　詠一",
+  "createdAt": "2026-02-14T09:36:31.370420Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Velvet Motel",
+      "artist": "大瀧詠一",
+      "has_synced": true,
+      "path": "select/01_Velvet_Motel_大瀧詠一.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Velvet Motel",
+      "artist": "大瀧栄一",
+      "has_synced": true,
+      "path": "select/02_Velvet_Motel_大瀧栄一.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Velvet Motel",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/03_Velvet_Motel_大滝_詠一.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Velvet Motel",
+      "artist": "大滝詠一 (Eiichi Ohtaki)",
+      "has_synced": false,
+      "path": "select/04_Velvet_Motel_大滝詠一_(Eiichi_Ohtaki).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Velvet Motel",
+      "artist": "大瀧詠一",
+      "has_synced": false,
+      "path": "select/05_Velvet_Motel_大瀧詠一.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Velvet Motel",
+      "artist": "大滝詠一",
+      "has_synced": false,
+      "path": "select/06_Velvet_Motel_大滝詠一.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Velvet Motel",
+      "artist": "大瀧詠一",
+      "has_synced": true,
+      "path": "select/07_Velvet_Motel_大瀧詠一.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Velvet Motel",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_01_Velvet_Motel_大滝_詠一.txt"
+    }
+  ]
+}
